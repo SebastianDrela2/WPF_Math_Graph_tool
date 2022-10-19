@@ -1,5 +1,10 @@
 Basic Graph Tool, Work in Progress (x) is the unknown.
 
+![Maht graph](https://user-images.githubusercontent.com/107455395/191099910-d6e87231-c76a-452c-94fd-6e63b7272b21.JPG)
+![example34](https://user-images.githubusercontent.com/107455395/191142931-9938dea8-661d-456d-bdb7-de8e8d1d23fc.JPG)
+![Interection ,root graph](https://user-images.githubusercontent.com/107455395/191730120-60f57909-f14e-4da9-8cfd-37aced4500ca.JPG)
+![integrals jpg](https://user-images.githubusercontent.com/107455395/192199101-dec35e30-4459-4085-bb89-0364008655ac.JPG)
+
 # Ver 1.0.
 - Added Support for multiple graphs
 - Added Basic user interface options.
@@ -65,8 +70,3 @@ Basic Graph Tool, Work in Progress (x) is the unknown.
 # Ver 2.6 
 - Fixed launch bug caused by a local image path being unreachable.
   
-
-![Maht graph](https://user-images.githubusercontent.com/107455395/191099910-d6e87231-c76a-452c-94fd-6e63b7272b21.JPG)
-![example34](https://user-images.githubusercontent.com/107455395/191142931-9938dea8-661d-456d-bdb7-de8e8d1d23fc.JPG)
-![Interection ,root graph](https://user-images.githubusercontent.com/107455395/191730120-60f57909-f14e-4da9-8cfd-37aced4500ca.JPG)
-![integrals jpg](https://user-images.githubusercontent.com/107455395/192199101-dec35e30-4459-4085-bb89-0364008655ac.JPG)

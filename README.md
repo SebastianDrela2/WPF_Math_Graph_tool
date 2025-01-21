@@ -1,4 +1,4 @@
-# 🚨 ${{\color{red}\Huge{\textsf{  DISCLAIMER\ }}}}$ 🚨
+# 🚨 ${{\color{red}\Huge{\textsf{  DISCLAIMER NO SOURCE CODE\ }}}}$ 🚨
 
 ### VERY OLD PROJECT I KEEP IT FOR NOSTALGIA.
 
